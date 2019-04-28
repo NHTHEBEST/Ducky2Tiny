@@ -1,6 +1,6 @@
 @echo off
 REM check if vs console
-if "%VSCMD_VER%"=="" cmd /k "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\VsDevCmd.bat" && make
+if "%VSCMD_VER%"=="" goto start
 del *.obj *.exe *.netmodule
 cl.exe /Zi /MD /c littleWire_util.c
 echo =================================
@@ -17,3 +17,12 @@ echo =================================
 echo ===========TESTING===============
 echo =================================
 Flasher.exe
+goto end
+
+:start
+if exist "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars32.bat" (
+	cmd /k "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvars32.bat"
+) else (
+	cmd /k "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\VsDevCmd.bat"
+)
+:end
