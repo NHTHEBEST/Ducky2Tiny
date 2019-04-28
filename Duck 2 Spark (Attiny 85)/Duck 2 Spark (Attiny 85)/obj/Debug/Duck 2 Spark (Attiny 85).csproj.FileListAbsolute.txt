@@ -1,0 +1,9 @@
+C:\Users\NHTHEBEST\source\repos\Duck 2 Spark (Attiny 85)\Duck 2 Spark (Attiny 85)\obj\Debug\Duck 2 Spark (Attiny 85).csprojAssemblyReference.cache
+C:\Users\NHTHEBEST\source\repos\Duck 2 Spark (Attiny 85)\Duck 2 Spark (Attiny 85)\obj\Debug\Duck_2_Spark__Attiny_85_.Properties.Resources.resources
+C:\Users\NHTHEBEST\source\repos\Duck 2 Spark (Attiny 85)\Duck 2 Spark (Attiny 85)\obj\Debug\Duck 2 Spark (Attiny 85).csproj.GenerateResource.cache
+C:\Users\NHTHEBEST\source\repos\Duck 2 Spark (Attiny 85)\Duck 2 Spark (Attiny 85)\obj\Debug\Duck 2 Spark (Attiny 85).csproj.CoreCompileInputs.cache
+C:\Users\NHTHEBEST\source\repos\Duck 2 Spark (Attiny 85)\Duck 2 Spark (Attiny 85)\bin\Debug\Duck 2 Spark (Attiny 85).exe.config
+C:\Users\NHTHEBEST\source\repos\Duck 2 Spark (Attiny 85)\Duck 2 Spark (Attiny 85)\bin\Debug\Duck 2 Spark (Attiny 85).exe
+C:\Users\NHTHEBEST\source\repos\Duck 2 Spark (Attiny 85)\Duck 2 Spark (Attiny 85)\bin\Debug\Duck 2 Spark (Attiny 85).pdb
+C:\Users\NHTHEBEST\source\repos\Duck 2 Spark (Attiny 85)\Duck 2 Spark (Attiny 85)\obj\Debug\Duck 2 Spark (Attiny 85).exe
+C:\Users\NHTHEBEST\source\repos\Duck 2 Spark (Attiny 85)\Duck 2 Spark (Attiny 85)\obj\Debug\Duck 2 Spark (Attiny 85).pdb

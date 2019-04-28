@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.micronucleus.path=C:\\Users\\NHTHEBEST\\AppData\\Local\\Arduino15\\packages\\digistump\\tools\\micronucleus\\2.0a4,runtime.tools.micronucleus-2.0a4.path=C:\\Users\\NHTHEBEST\\AppData\\Local\\Arduino15\\packages\\digistump\\tools\\micronucleus\\2.0a4,runtime.tools.avr-gcc.path=C:\\Users\\NHTHEBEST\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\4.8.1-arduino5,runtime.tools.avr-gcc-4.8.1-arduino5.path=C:\\Users\\NHTHEBEST\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\4.8.1-arduino5",
+  "fqbn": "digistump:avr:digispark-tiny",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\NHTHEBEST\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\NHTHEBEST\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10809",
+  "sketchLocation": "C:\\Users\\NHTHEBEST\\Documents\\Arduino\\Wifi_pass\\Wifi_pass.ino",
+  "toolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\NHTHEBEST\\AppData\\Local\\Arduino15\\packages"
+}

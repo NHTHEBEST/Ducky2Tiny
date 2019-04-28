@@ -1,0 +1,5 @@
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/libs-device/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped

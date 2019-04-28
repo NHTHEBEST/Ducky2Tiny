@@ -1,0 +1,30 @@
+C files
+./DigisparkKeyboard/oddebug.c
+./DigisparkKeyboard/osccal.c
+./DigisparkKeyboard/usbdrv.c
+./tiny core/pins_arduino.c
+./tiny core/WInterrupts.c
+./tiny core/wiring.c
+./tiny core/wiring_analog.c
+./tiny core/wiring_digital.c
+./tiny core/wiring_pulse.c
+./tiny core/wiring_shift.c
+./variants/pins_arduino.c
+CPP files
+./tiny core/HardwareSerial.cpp
+./tiny core/main.cpp
+./tiny core/new.cpp
+./tiny core/Print.cpp
+./tiny core/TinyDebugSerial.cpp
+./tiny core/TinyDebugSerial115200.cpp
+./tiny core/TinyDebugSerial38400.cpp
+./tiny core/TinyDebugSerial9600.cpp
+./tiny core/TinyDebugSerialErrors.cpp
+./tiny core/Tone.cpp
+./tiny core/WMath.cpp
+./tiny core/WString.cpp
+S files
+./DigisparkKeyboard/usbdrvasm.S
+INO files
+./DigisparkKeyboard/examples/Keyboard/Keyboard.ino
+./Wifi_pass.ino

@@ -1,0 +1,761 @@
+./packages/digistump: directory
+./packages/digistump/hardware: directory
+./packages/digistump/hardware/avr: directory
+./packages/digistump/hardware/avr/1.6.7: directory
+./packages/digistump/hardware/avr/1.6.7/boards.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores: directory
+./packages/digistump/hardware/avr/1.6.7/cores/license.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro: directory
+./packages/digistump/hardware/avr/1.6.7/cores/pro/Arduino.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/binary.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/HardwareSerial.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/HardwareSerial.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/main.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/new.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/new.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/Print.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/Print.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/Printable.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/Stream.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/Stream.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/TinySoftwareSerial.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/TinySoftwareSerial.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/TinySoftwareSPI.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/TinySoftwareSPI.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/Tone.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/WCharacter.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/WInterrupts.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/wiring.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/wiring_analog.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/wiring_digital.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/wiring_private.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/wiring_pulse.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/wiring_shift.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/WMath.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/WProgram.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/WString.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/pro/WString.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny: directory
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/Arduino.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/binary.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/core_adc.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/core_build_options.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/core_macros.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/core_pins.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/core_timers.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/HardwareSerial.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/HardwareSerial.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/main.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/new.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/new.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/pins_arduino.c: C source, ISO-8859 text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/pins_arduino.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/Print.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/Print.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/PwmTimer.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/Stream.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/TinyDebugSerial.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/TinyDebugSerial.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/TinyDebugSerial115200.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/TinyDebugSerial38400.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/TinyDebugSerial9600.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/TinyDebugSerialErrors.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/Tone.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/ToneTimer.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/UserTimer.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/WCharacter.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/WConstants.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/WInterrupts.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/wiring.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/wiring.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/wiring_analog.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/wiring_digital.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/wiring_private.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/wiring_pulse.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/wiring_shift.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/WMath.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/WProgram.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/WString.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/cores/tiny/WString.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/firmwares: directory
+./packages/digistump/hardware/avr/1.6.7/libraries: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/COPYING: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/examples/buttoncycler: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/examples/buttoncycler/buttoncycler.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/examples/digispark: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/examples/digispark/digispark.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/examples/simple: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/examples/simple/simple.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/examples/strandtest: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/examples/strandtest/strandtest.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Adafruit_NeoPixel/README.md: ASCII text, with very long lines
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/asmcommon.inc: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/Changelog.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/CommercialLicense.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/DigiCDC.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/DigiCDC.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/examples/CDC_LED: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/examples/CDC_LED/CDC_LED.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/examples/Echo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/examples/Echo/Echo.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/examples/Print: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/examples/Print/Print.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/libs-device: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/libs-device/Readme.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/License.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/oddebug.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/oddebug.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/osccal.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/osccal.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/osctune.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/Readme.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/ringBuffer.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbconfig-prototype.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbconfig.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrv.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrv.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrvasm.asm: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrvasm.S: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrvasm12.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrvasm128.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrvasm15.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrvasm16.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrvasm165.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrvasm18-crc.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbdrvasm20.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkCDC/usbportability.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/.gitattributes: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/.gitignore: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/CHANGELOG.txt: Non-ISO extended-ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/DigiIrDump: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/DigiIrDump/DigiIrDump.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/DigiIrRgbCtrl: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/DigiIrRgbCtrl/DigiIrRgbCtrl.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRhashdecode: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRhashdecode/IRhashdecode.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRrecord: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRrecord/IRrecord.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRrecvDump: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRrecvDump/IRrecvDump.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRsendDemo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRsendDemo/IRsendDemo.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRsendJVC: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRsendJVC/IRsendJVC.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRserial_remote: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRserial_remote/click.wav: RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRserial_remote/IRserial_remote.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRserial_remote/IRserial_remote.py: Python script, ASCII text executable
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRserial_remote/POV-Ray: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRserial_remote/POV-Ray/remotebg.pov: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRserial_remote/remotebg.png: PNG image data, 400 x 768, 8-bit/color RGB, non-interlaced
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRservo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/IRservo/IRservo.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/Samsung36: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/examples/Samsung36/Samsung36.ino: C++ source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/IRLib.cpp: C source, Non-ISO extended-ASCII text, with LF, NEL line terminators
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/IRLib.h: C++ source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/IRLibMatch.h: C source, Non-ISO extended-ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/IRLibTimer.h: C source, Non-ISO extended-ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/LICENSE.txt: Little-endian UTF-16 Unicode text, with CRLF, CR line terminators
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkIRLib/README.txt: Non-ISO extended-ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/ArduinoNotes.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/asmcommon.inc: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/Changelog.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/CommercialLicense.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/DigiJoystick.h: C++ source, ISO-8859 text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/DigiKeyboard.h.old: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/examples/Joystick: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/examples/Joystick/Joystick.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/JoystickReadme.txt: ISO-8859 text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/License.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/oddebug.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/oddebug.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/osccal.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/osccal.c.lst: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/osccal.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/osctune.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/Readme.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/USB-ID-FAQ.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/USB-IDs-for-free.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbconfig-prototype.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbconfig.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrv.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrv.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrvasm.asm: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrvasm.S: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrvasm12.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrvasm128.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrvasm15.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrvasm16.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrvasm165.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrvasm18-crc.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbdrvasm20.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/USBID-License.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkJoystick/usbportability.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/ArduinoNotes.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/asmcommon.inc: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/Changelog.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/CommercialLicense.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/DigiKeyboard.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/examples/Keyboard: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/examples/Keyboard/Keyboard.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/License.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/oddebug.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/oddebug.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/osccal.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/osccal.c.lst: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/osccal.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/osctune.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/Readme.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/scancode-ascii-table.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/USB-ID-FAQ.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/USB-IDs-for-free.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbconfig-prototype.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbconfig.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrv.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrv.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrvasm.asm: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrvasm.S: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrvasm12.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrvasm128.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrvasm15.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrvasm16.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrvasm165.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrvasm18-crc.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbdrvasm20.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/USBID-License.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkKeyboard/usbportability.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/examples/BasicUsage: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/examples/BasicUsage/BasicUsage.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/info: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/info/BC557.pdf: PDF document, version 1.4
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/info/Image.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 640x480, frames 3
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/info/notes_for_pollin_interface.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/info/PCF8574P.pdf: PDF document, version 1.4
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/info/readme.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/info/Schematic_diagram.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 901x682, frames 3
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/LiquidCrystal_I2C.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkLCD/LiquidCrystal_I2C.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/ArduinoNotes.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/asmcommon.inc: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/Changelog.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/CommercialLicense.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/DigiMouse.h: C++ source, ISO-8859 text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/examples/Mouse: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/examples/Mouse/Mouse.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/License.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/MouseReadme.txt: ISO-8859 text, with very long lines
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/oddebug.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/oddebug.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/osccal.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/osccal.c.lst: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/osccal.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/osctune.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/Readme.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/USB-ID-FAQ.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/USB-IDs-for-free.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbconfig-prototype.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbconfig.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrv.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrv.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrvasm.asm: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrvasm.S: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrvasm12.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrvasm128.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrvasm15.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrvasm16.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrvasm165.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrvasm18-crc.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbdrvasm20.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/USBID-License.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkMouse/usbportability.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/CHANGES.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/DigisparkOLED.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/DigisparkOLED.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/examples/DigisparkOLED: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/examples/DigisparkOLED/DigisparkOLED.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/examples/DigisparkOLED/digistump_128x64c1.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/examples/DigisparkOLED/img0_128x64c1.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/font6x8.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/font8x16.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/README.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/RESEARCH.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkOLED/TODO.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/DigiRcSeqZodiac: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/DigiRcSeqZodiac/DigiRcSeqZodiac.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/MultiPosSwitch: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/MultiPosSwitch/MultiPosSwitch.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/OnePropTo5: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/OnePropTo5/OnePropTo5.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/RcSeqAdvancedDoors: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/RcSeqAdvancedDoors/RcSeqAdvancedDoors.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/RcSeqDemo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/RcSeqDemo/RcSeqDemo.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/RcSeqZodiac: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/RcSeqZodiac/RcSeqZodiac.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/UneVoieVers8: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Examples/UneVoieVers8/UneVoieVers8.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/RcSeq.cpp: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/RcSeq.h: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRcSeq/Readme.md: ASCII text, with very long lines
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRGB: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRGB/DigisparkRGB.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRGB/DigisparkRGB.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRGB/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRGB/examples/DigisparkRGB: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRGB/examples/DigisparkRGB/DigisparkRGB.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkRGB/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSimpleServo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSimpleServo/.DS_Store: Apple Desktop Services Store
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSimpleServo/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSimpleServo/examples/.DS_Store: Apple Desktop Services Store
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSimpleServo/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSimpleServo/README.txt: UTF-8 Unicode text, with very long lines
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSimpleServo/SimpleServo.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSimpleServo/SimpleServo.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/examples/SoftRcPulseInDebug: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/examples/SoftRcPulseInDebug/SoftRcPulseInDebug.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/examples/SoftRcPulseInDemo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/examples/SoftRcPulseInDemo/SoftRcPulseInDemo.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/examples/SoftRcPulseInOutDemo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/examples/SoftRcPulseInOutDemo/SoftRcPulseInOutDemo.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/Readme.md: UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/SoftRcPulseIn.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseIn/SoftRcPulseIn.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/Knob: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/Knob/Knob.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/knob_moyennee: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/knob_moyennee/knob_moyennee.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/SerialServo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/SerialServo/SerialServo.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/SoftRcPulseInOutDemo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/SoftRcPulseInOutDemo/SoftRcPulseInOutDemo.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/Sweep: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/Sweep/Sweep.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/SweepNoDelay: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/SweepNoDelay/SweepNoDelay.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/Usb2Servos: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/examples/Usb2Servos/Usb2Servos.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/Readme.md: UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/SoftRcPulseOut.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftRcPulseOut/SoftRcPulseOut.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/examples/Digi_1io_SerialDbg: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/examples/Digi_1io_SerialDbg/Digi_1io_SerialDbg.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/examples/SoftSerialExample: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/examples/SoftSerialExample/SoftSerialExample.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/examples/TwoPortReceive: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/examples/TwoPortReceive/TwoPortReceive.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/Readme.md: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/SoftSerial.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkSoftSerial/SoftSerial.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/examples/Edge: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/examples/Edge/Edge.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/examples/FallingEdge: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/examples/FallingEdge/FallingEdge.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/examples/RisingEdge: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/examples/RisingEdge/RisingEdge.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/examples/TinyRcScope: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/examples/TinyRcScope/TinyRcScope.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/Readme.md: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/TinyPinChange.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinyPinChange/TinyPinChange.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm/examples/SoftPwm13Pins: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm/examples/SoftPwm13Pins/SoftPwm13Pins.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm/examples/TinySoftPwmDemo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm/examples/TinySoftPwmDemo/TinySoftPwmDemo.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm/Readme.md: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm/TinySoftPwm.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkTinySoftPwm/TinySoftPwm.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/ArduinoNotes.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/asmcommon.inc: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/Changelog.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/CommercialLicense.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/DigisparkReadme.txt: ASCII text, with no line terminators
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/DigiUSB.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/DigiUSB.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/examples/DigiBlink: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/examples/DigiBlink/DigiBlink.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/examples/DigiScope: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/examples/DigiScope/DigiScope.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/examples/DigiUSB2LCD: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/examples/DigiUSB2LCD/DigiUSB2LCD.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/examples/Echo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/examples/Echo/Echo.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/libs-device: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/libs-device/osccal.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/libs-device/osccal.c.lst: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/libs-device/osccal.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/libs-device/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/libs-device/osctune.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/libs-device/Readme.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/License.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/oddebug.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/oddebug.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/osccal.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/osccal.c.lst: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/osccal.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/osccal.o: ELF 32-bit LSB relocatable, Atmel AVR 8-bit, version 1 (SYSV), not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/osctune.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/Readme.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/rx_buffer.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/USB-ID-FAQ.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/USB-IDs-for-free.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbconfig-prototype.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbconfig.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrv.c: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrv.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrvasm.asm: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrvasm.S: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrvasm12.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrvasm128.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrvasm15.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrvasm16.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrvasm165.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrvasm18-crc.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbdrvasm20.inc: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/USBID-License.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/DigisparkUSB/usbportability.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/BasicRobot: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/BasicRobot/BasicRobot.ino: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/BT_BLE_Echo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/BT_BLE_Echo/BT_BLE_Echo.ino: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/BT_or_BLERobot: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/BT_or_BLERobot/BT_or_BLERobot.ino: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Charlieplex: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Charlieplex/Charlieplex.ino: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/CharliePlexMarquee: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/CharliePlexMarquee/charlieplex.ino: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Digispark_Examples.h: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/EEPROM: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/EEPROM/EEPROM.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Expander: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Expander/Expander.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/GPS: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/GPS/GPS.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/i2cScanner: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/i2cScanner/i2cScanner.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Infrared: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Infrared/Infrared.ino: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/MeshGeneralExample: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/MeshGeneralExample/MeshGeneralExample.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/MotorShield: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/MotorShield/MotorShield.ino: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Rfm12b: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Rfm12b/Rfm12b.ino: C source, UTF-8 Unicode text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Start: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/Start/Start.ino: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/WiFiClientGetExample: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/WiFiClientGetExample/WiFiClientGetExample.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/WiFiClientPostExample: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/WiFiClientPostExample/WiFiClientPostExample.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/WiFiServerExample: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/WiFiServerExample/WiFiServerExample.ino: HTML document, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/WiFiServerRobot: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/WiFiServerRobot/WiFiServerRobot.ino: HTML document, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/_9DOF_Shield: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Digispark_Examples/_9DOF_Shield/_9DOF_Shield.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/examples/LCDemo7Segment: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/examples/LCDemo7Segment/LCDemo7Segment.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/examples/LCDemoCascadedDevices: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/examples/LCDemoCascadedDevices/LCDemoCascadedDevices.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/examples/LCDemoMatrix: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/examples/LCDemoMatrix/LCDemoMatrix.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/LedControl.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LedControl/LedControl.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/examples/advancedLEDbeltKit: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/examples/advancedLEDbeltKit/advancedLEDbeltKit.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/examples/LEDbeltKit: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/examples/LEDbeltKit/LEDbeltKit.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/examples/longstrandtest: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/examples/longstrandtest/longstrandtest.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/examples/strandtest: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/examples/strandtest/strandtest.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/LPD8806.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/LPD8806.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/LPD8806/README.md: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/ArduinoNunchuk.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/ArduinoNunchuk.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/examples/ArduinoNunchukDemo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/examples/ArduinoNunchukDemo/ArduinoNunchukDemo.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/examples/DigisparkJoystickDemo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/examples/DigisparkJoystickDemo/DigisparkJoystickDemo.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/examples/DigisparkUSBDemo: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/examples/DigisparkUSBDemo/DigisparkUSBDemo.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/LICENSE.txt: ASCII text, with very long lines
+./packages/digistump/hardware/avr/1.6.7/libraries/Nunchuk/README.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/examples/Digispark_Example: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/examples/Digispark_Example/Digispark_Example.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/examples/DS18x20_Temperature: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/examples/DS18x20_Temperature/DS18x20_Temperature.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/examples/DS2408_Switch: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/examples/DS2408_Switch/DS2408_Switch.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/examples/DS250x_PROM: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/examples/DS250x_PROM/DS250x_PROM.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/OneWire.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/OneWire/OneWire.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/.gitignore: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/Doxyfile: ASCII text, with very long lines
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/doxygen-custom.css: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/digispark_receive: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/digispark_receive/digispark_receive.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/digispark_send: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/digispark_send/digispark_send.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/GettingStarted: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/GettingStarted/GettingStarted.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/GettingStarted/Jamfile: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/GettingStarted/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/led_remote: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/led_remote/Jamfile: makefile script, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/led_remote/led_remote.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/led_remote/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/nordic_fob: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/nordic_fob/Jamfile: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/nordic_fob/nordic_fob.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/nordic_fob/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair/Jamfile: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair/pingpair.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_dyn: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_dyn/Jamfile: makefile script, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_dyn/pingpair_dyn.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_dyn/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_irq: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_irq/Jamfile: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_irq/pingpair_irq.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_irq/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_maple: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_maple/Jamfile: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_maple/main.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_maple/pingpair_maple.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_pl: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_pl/Jamfile: makefile script, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_pl/pingpair_pl.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_pl/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_sleepy: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_sleepy/Jamfile: makefile script, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_sleepy/pingpair_sleepy.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/pingpair_sleepy/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/scanner: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/scanner/Jamfile: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/scanner/output: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/scanner/output/core.a: current ar archive
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/scanner/output/scanner.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/scanner/output/scanner.elf: ELF 32-bit LSB executable, Atmel AVR 8-bit, version 1 (SYSV), statically linked, with debug_info, not stripped
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/scanner/output/scanner.hex: ASCII text, with CRLF line terminators
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/scanner/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/scanner/scanner.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/starping: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/starping/Jamfile: makefile script, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/starping/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/examples/starping/starping.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/FAQ: HTML document, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/nRF24L01.h: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/README.md: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/RF24.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/RF24.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/RF24_config.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/native: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/native/Jamfile: makefile script, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/native/pingpair_irq.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/native/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_blocking: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_blocking/Jamfile: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_blocking/pingpair_blocking.pde: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_blocking/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_blocking/runtest.py: Python script, ASCII text executable
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_blocking/runtests.sh: POSIX shell script, ASCII text executable
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_blocking/test.ex: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_test: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_test/Jamfile: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_test/pingpair_test.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_test/printf.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_test/runtest.py: a /opt/local/bin/python script, ASCII text executable
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_test/runtests.sh: POSIX shell script, ASCII text executable
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/pingpair_test/test.ex: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/tests/README: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/RF24/wikidoc.xslt: exported SGML document, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI/examples/BarometricPressureSensor: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI/examples/BarometricPressureSensor/BarometricPressureSensor.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI/examples/DigitalPotControl: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI/examples/DigitalPotControl/DigitalPotControl.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI/library.properties: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI/SPI.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/SPI/SPI.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/examples/datecalc: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/examples/datecalc/datecalc.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/examples/ds1307: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/examples/ds1307/ds1307.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/examples/softrtc: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/examples/softrtc/softrtc.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/README.md: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/TinyRTClib.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyRTClib/TinyRTClib.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/examples/Tiny85_Temp: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/examples/Tiny85_Temp/Tiny85_Temp.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/examples/Tiny85_Temp_LCD: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/examples/Tiny85_Temp_LCD/Tiny85_Temp_LCD.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/examples/Tiny85_Temp_LCD_RTC: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/examples/Tiny85_Temp_LCD_RTC/Tiny85_Temp_LCD_RTC.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/library.properties: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/README.md: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/TinyWireM.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/TinyWireM.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/USI_TWI_Master.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/TinyWireM/USI_TWI_Master.h: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/CHANGES: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/examples/client: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/examples/client/client.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/examples/receiver: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/examples/receiver/receiver.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/examples/server: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/examples/server/server.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/examples/transmitter: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/examples/transmitter/transmitter.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/LICENSE: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/Makefile: makefile script, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/MANIFEST: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/README: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/util: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/util/crc16.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/VirtualWire.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/VirtualWire/VirtualWire.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/examples/Tiny85_Temp: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/examples/Tiny85_Temp/Tiny85_Temp.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/examples/Tiny85_Temp_LCD: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/examples/Tiny85_Temp_LCD/Tiny85_Temp_LCD.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/examples/Tiny85_Temp_LCD_RTC: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/examples/Tiny85_Temp_LCD_RTC/Tiny85_Temp_LCD_RTC.pde: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/keywords.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/USI_TWI_Master_Wire.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/USI_TWI_Master_Wire.h: ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/Wire.cpp: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/Wire/Wire.h: C++ source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/WS2811: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/WS2811/examples: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/WS2811/examples/digispark: directory
+./packages/digistump/hardware/avr/1.6.7/libraries/WS2811/examples/digispark/digispark.ino: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/libraries/WS2811/WS2811.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/platform.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/programmers.txt: ASCII text
+./packages/digistump/hardware/avr/1.6.7/variants: directory
+./packages/digistump/hardware/avr/1.6.7/variants/digispark: directory
+./packages/digistump/hardware/avr/1.6.7/variants/digispark/pins_arduino.c: C source, ISO-8859 text
+./packages/digistump/hardware/avr/1.6.7/variants/digispark/pins_arduino.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/variants/pro: directory
+./packages/digistump/hardware/avr/1.6.7/variants/pro/pins_arduino.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/variants/pro32buffer: directory
+./packages/digistump/hardware/avr/1.6.7/variants/pro32buffer/pins_arduino.h: C source, ASCII text
+./packages/digistump/hardware/avr/1.6.7/variants/pro64buffer: directory
+./packages/digistump/hardware/avr/1.6.7/variants/pro64buffer/pins_arduino.h: C source, ASCII text
+./packages/digistump/tools: directory
+./packages/digistump/tools/micronucleus: directory
+./packages/digistump/tools/micronucleus/2.0a4: directory
+./packages/digistump/tools/micronucleus/2.0a4/amd64: directory
+./packages/digistump/tools/micronucleus/2.0a4/amd64/libusb0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/amd64/libusb0.sys: PE32+ executable (native) x86-64, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/amd64/libusbK.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/amd64/lowcdc.sys: PE32+ executable (native) x86-64, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/cdc_digix.cat: data
+./packages/digistump/tools/micronucleus/2.0a4/ChangeCDCSpeed.vbs: ASCII text, with CRLF line terminators
+./packages/digistump/tools/micronucleus/2.0a4/digiserial.cat: data
+./packages/digistump/tools/micronucleus/2.0a4/DigiSerial.inf: Windows setup INFormation, ASCII text, with CRLF line terminators
+./packages/digistump/tools/micronucleus/2.0a4/Digispark_Bootloader.cat: data
+./packages/digistump/tools/micronucleus/2.0a4/Digispark_Bootloader.inf: Windows setup INFormation, Little-endian UTF-16 Unicode text, with CRLF, CR line terminators
+./packages/digistump/tools/micronucleus/2.0a4/digiusb.cat: data
+./packages/digistump/tools/micronucleus/2.0a4/DigiUSB.inf: Windows setup INFormation, Little-endian UTF-16 Unicode text, with CRLF, CR line terminators
+./packages/digistump/tools/micronucleus/2.0a4/DigiX.inf: Windows setup INFormation, ASCII text
+./packages/digistump/tools/micronucleus/2.0a4/DPinst.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/DPinst64.exe: PE32+ executable (GUI) x86-64, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/Install: cannot open `./packages/digistump/tools/micronucleus/2.0a4/Install' (No such file or directory)
+Digistump: cannot open `Digistump' (No such file or directory)
+Drivers.bat: cannot open `Drivers.bat' (No such file or directory)
+./packages/digistump/tools/micronucleus/2.0a4/install.exe: PE32 executable (console) Intel 80386, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/launcher.exe: PE32 executable (console) Intel 80386, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/micronucleus.exe: PE32 executable (console) Intel 80386, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/post_install.bat: ASCII text, with CRLF line terminators
+./packages/digistump/tools/micronucleus/2.0a4/x86: directory
+./packages/digistump/tools/micronucleus/2.0a4/x86/libusb0.sys: PE32 executable (native) Intel 80386, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/x86/libusb0_x86.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/x86/libusbK_x86.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+./packages/digistump/tools/micronucleus/2.0a4/x86/lowcdc.sys: PE32 executable (native) Intel 80386, for MS Windows
+./package_digistump_index.json: ASCII text
+./package_digistump_index.json.sig.tmp: empty
+./staging/packages/digistump-avr-1.6.7.zip: Zip archive data, at least v2.0 to extract
